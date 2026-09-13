@@ -14,7 +14,7 @@ SSAFY x Kakao Tech Bootcamp AI Hackathon에서 **103개 팀 중 본선 6개 팀*
 
 [시연 영상](https://youtu.be/qiv1yjfYUZQ) ·
 [발표 자료](https://github.com/user-attachments/files/28921796/_.pdf) ·
-[전체 포트폴리오](https://github.com/JuHyeon-Nam/JuHyeon-Nam-archive)
+[GitHub 프로필](https://github.com/JuHyeon-Nam)
 
 <p align="center">
   <a href="https://youtu.be/qiv1yjfYUZQ">
